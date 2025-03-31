@@ -165,3 +165,11 @@ Pull the latest changes to your local `main`:
 git checkout main
 git pull origin main
 ```
+
+---
+
+## Constructive feedback for the project proposal from the TA Manikantan Srinivasan @Mar 13 at 12:14pm
+
+Great work on putting together a well-structured and comprehensive project proposal! Your approach to analyzing the 2017 NOAA weather dataset using a variety of data mining techniques is impressive. The objectives you have outlined, including weather pattern classification, extreme weather event detection, temperature prediction, and regional comparisons, show a strong understanding of how to extract valuable insights from an irregular meteorological dataset. I really like how you are balancing both unsupervised and supervised learning approaches with K-Means and PCA for clustering, Logistic Regression and Random Forest for extreme weather classification, and Random Forest and XGBoost for regression tasks. It is also great to see that you are tackling missing data issues and using geospatial visualizations to compare regional weather trends. The deliverables are well-defined, making it clear how you plan to execute your analysis.
+
+If you are looking to take the project even further, you could consider adding some feature engineering, like calculating temperature anomalies or wind chill factors, to enrich the dataset. Exploring ensemble methods or even deep learning models like LSTMs could also be interesting for temperature forecasting, though your current approach is already strong. Given the irregular time intervals, a sensitivity analysis on how different temporal aggregation methods, such as weekly or monthly summaries, affect results might provide additional insights. You could also do an ablation study to see which features contribute the most to model performance. But honestly, the project is already in great shape. Overall, fantastic job, this is a well-thought-out and promising analysis, and I am excited to see how it turns out!
