@@ -95,9 +95,9 @@ Since the data is not suitable for classic time-series forecasting, we will focu
 ---
 
 ## Resources
-- [NOAA (National Oceanic and Atmospheric Administration)](https://www.noaa.gov/tools-and-resources/weather-and-climate-resources#historic)  
-- [2017 NOAA Dataset (Google Drive link)](https://drive.google.com/file/d/1DUwwByuGdUM6nytw07rQt4wZD03Q6-TD/view?usp=sharing)
-
+- [NOAA (National Oceanic and Atmospheric Administration)- Data Resources](https://www.noaa.gov/tools-and-resources/weather-and-climate-resources#historic)  
+- [2017 NOAA Dataset (Google Drive link)- Raw Weather Data](https://drive.google.com/file/d/1DUwwByuGdUM6nytw07rQt4wZD03Q6-TD/view?usp=sharing)
+- [2017 NOAA Dataset (Google Drive link)- Pre-Processed Weather Data](https://drive.google.com/file/d/1OvQS9qZYTcEHge3dkNamkyewrgq1Em1K/view?usp=sharing)
 ---
 
 ## Team Members
