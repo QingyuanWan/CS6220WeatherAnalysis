@@ -1,0 +1,14 @@
+{
+  "name": "0b87dc4904d2282c",
+  "main": "0b87dc4904d2282c@616.js",
+  "version": "616.0.0",
+  "homepage": "https://observablehq.com/d/0b87dc4904d2282c",
+  "author": {
+    "name": "Northeastern University",
+    "url": "https://observablehq.com/@northeastern-university10"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4 - 5"
+  }
+}
