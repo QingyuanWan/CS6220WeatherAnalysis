@@ -1,13 +1,6 @@
 # Exploratory Data Analysis (EDA):
 
-https://observablehq.com/d/0b87dc4904d2282c@616
-
-View this notebook in your browser by running a web server in this folder. For
-example:
-
-~~~sh
-npx http-server
-~~~
+View this notebook PDF: 6220 Final Project EDA.pdf
 
 Or, use the [Observable Runtime](https://github.com/observablehq/runtime) to
 import this module directly into your application. To npm install:
